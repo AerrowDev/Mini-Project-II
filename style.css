@@ -290,7 +290,7 @@ body{
 
 /*Booking Form*/
 .booking{
-    background: linear-gradient(rgba(15, 23, 43,0.7),rgba(15, 23, 43,0.7)), url('img/price-3.jpg') ;
+    background: linear-gradient(rgba(15, 23, 43,0.7),rgba(15, 23, 43,0.7)), url('img/cat/price-3.jpg') ;
     background-position: center center;
     background-repeat:no-repeat ;
     background-size: cover;
