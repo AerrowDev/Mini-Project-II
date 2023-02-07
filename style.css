@@ -290,7 +290,7 @@ body{
 
 /*Booking Form*/
 .booking{
-    background: linear-gradient(rgba(15, 23, 43,0.7),rgba(15, 23, 43,0.7)), url('price-3.jpg') ;
+    background: linear-gradient(rgba(15, 23, 43,0.7),rgba(15, 23, 43,0.7)), url('img/price-3.jpg') ;
     background-position: center center;
     background-repeat:no-repeat ;
     background-size: cover;
@@ -300,7 +300,7 @@ body{
 
 /*contact page*/
 #page-header{
-    background-image: url('banner.png') ;
+    background-image: url('img/banner.png') ;
     width: 100%;
     height: 50vh;
     background-size: cover;
@@ -319,7 +319,7 @@ body{
 
 /*About Page */
 #page-header.about-header{
-    background-image: url('banner.png') ;
+    background-image: url('img/banner.png') ;
 
 }
 
