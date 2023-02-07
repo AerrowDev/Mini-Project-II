@@ -45,6 +45,11 @@ body{
     letter-spacing: 2px;
     font-family: var(--lg-font);
 }
+.navbar-brand h5{
+    letter-spacing: 2px;
+    font-family: var(--lg-font);
+    font-weight: 600;
+}
 .nav-link:hover{
     color: var(--pink)!important;
 }
